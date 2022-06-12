@@ -1,5 +1,10 @@
 # GameSense.Cloud &amp; #h4xr0x.cc ::: #Spirithack  by neverlose.cc ::: hacked by h4xr0x ::
 __________________________________________________________________________________________________
+#Correction Spirit hack redist is the SpiritHack Cheat; the pastebin.zip is due to  wget error: credits for the artwork goto nepo,
+_________________________________________________________________________________________________________
+![image](https://user-images.githubusercontent.com/65768277/173249126-b71b8f53-c283-44b1-a85f-5a885840767a.png)
+
+```wget -x -T 5 -e robots=off -r --level='inf' --auth-no-challenge --keep-session-cookies -mkEpnp  spirithack.me/*--no-hsts --user-agent='Mozilla/5.0 Gecko/20050511 Firefox/1.0.4\n' --keep-session-cookies --retr-symlinks --no-cache -x --follow-ftp -H *.neverlose.cc/*```
 
 ![image](https://user-images.githubusercontent.com/65768277/173246923-c321af4b-5a30-4c05-9480-436ab7a68c14.png)
 ![image](https://user-images.githubusercontent.com/65768277/173246936-3a707e27-2d71-4ffd-a055-7d62dc24ad37.png)
